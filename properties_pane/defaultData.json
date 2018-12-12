@@ -11,8 +11,7 @@
 	"collection": {
 		"collectionName": "New table",
 		"collectionUsers": [],
-		"collation": {},
-		"tableOptions": ""
+		"collation": {}
 	},
 	"field": {
 		"name": "New column"
